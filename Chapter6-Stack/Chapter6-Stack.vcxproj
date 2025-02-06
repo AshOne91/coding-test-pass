@@ -132,6 +132,7 @@
   <ItemGroup>
     <ClCompile Include="exam08.cpp" />
     <ClCompile Include="exam09.cpp" />
+    <ClCompile Include="test10.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
