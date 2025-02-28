@@ -21,5 +21,8 @@
     <ClCompile Include="exam18.cpp">
       <Filter>헤더 파일</Filter>
     </ClCompile>
+    <ClCompile Include="exam19.cpp">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
