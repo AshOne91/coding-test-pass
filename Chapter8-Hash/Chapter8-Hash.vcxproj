@@ -133,6 +133,7 @@
     <ClCompile Include="exam18.cpp" />
     <ClCompile Include="exam19.cpp" />
     <ClCompile Include="text20.cpp" />
+    <ClCompile Include="text21.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
